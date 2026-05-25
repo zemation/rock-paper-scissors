@@ -1,9 +1,3 @@
-# Python Project READMEs
-
----
-
-## 1. rock-paper-scissors/README.md
-
 # Rock Paper Scissors
 
 A command-line Rock Paper Scissors game written in Python. The player competes against a computer opponent that makes random choices each round.
